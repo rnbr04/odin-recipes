@@ -6,3 +6,33 @@
 .recipes {
   list-style-type: none;
 }
+
+.card {
+  border: 2px solid red;
+  text-align: center
+}
+
+.card,
+img {
+  width: 600px;
+}
+
+.content {
+  text-align: left;
+}
+
+h1 {
+  text-align: center;  
+}
+
+.card.hashbrown {
+  background-color: #f9ffe5;
+}
+
+.card.pizza {
+  background-color: #ffe7e5;
+}
+
+.card.shahi-paneer {
+  background-color: #eeffeb;
+}
